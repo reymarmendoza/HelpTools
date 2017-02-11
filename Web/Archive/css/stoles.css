@@ -1,0 +1,72 @@
+h1{
+background: #fff;
+	width: 240px;
+	height: 20px;
+	top: 310px;
+	margin-left: 500px;
+     
+
+}
+
+img{
+	width: 300px;
+	height: 200px;
+	margin-left: 400px;
+	margin-top: 10px
+
+
+}
+
+
+
+
+form{
+	
+	height: 70%;
+	margin: 50px;
+}
+
+form p {
+
+	margin-left: 400px;
+}
+
+
+
+label {
+
+font-size:30px;
+display: block;
+width: 100%;
+
+
+}
+
+input {
+	margin-bottom:20px;
+	width: 30%;
+	padding: 10px;
+	border:1px solid #ccc;
+}
+
+input {
+       border:1px solid blue;
+
+
+}
+
+#for2{
+	width: 500px;
+	position: absolute;
+	left: 600px;
+	top: 308px;
+	
+
+}
+
+#for2 input{
+margin-bottom:20px;
+	width: 100%;
+	padding: 10px;
+	border:1px solid blue;
+}

@@ -1,0 +1,174 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+	background-image: url(../imag/fondo1.jpg);
+}
+
+#historia{
+	background-image: url(../imag/fondo2.jpg)
+}
+
+#cuerpogeneral{
+	background:white;
+	width: 940px;
+	height: 1200px;
+	margin: auto;
+}
+
+header{
+	width: 940px;
+	height: 250px;
+	background: pink;/*parahacer el header lo de arriba de la la pagina donde va el logo*/
+}
+
+
+div.contenedor{
+	width:180px;
+	height: 45px;
+	float:right;
+	margin: 2px
+	
+	
+	
+	
+}
+
+.texto{
+	text-align: center;
+	text-decoration: none
+}
+
+.texto a{
+	text-decoration: none
+}
+div#uno{
+	background-color: #FA58F4;
+	border-radius: 15px;
+	margin-top: 3px;
+	margin-right:15px;
+	font-size: 18px;
+	padding-top: 7px
+}
+
+div#uno:hover{
+	background:#C0C0C0;
+}
+
+.contenedor .texto{
+	font-size: 26px
+}
+div#dos{
+	background-color:#F6CED8 ;
+	border-radius: 15px;
+	margin-top: 3px;
+	padding-top: 7px;
+	padding-top: 7px
+	
+}
+div#dos:hover{
+	background:#C0C0C0;
+}
+div#tres{
+	background-color: #FAAC58;
+	border-radius: 15px;
+	margin-top: 3px;
+	padding-top: 7px
+}
+div#tres:hover{
+	background:#C0C0C0;
+	margin-bottom: 10px;
+}
+div#cuatro{
+	background-color: #58ACFA; 
+	border-radius: 15px;
+	margin-top: 3px;
+	padding-top: 7px
+}
+div#cuatro:hover{
+	background:#C0C0C0;
+}
+div#cinco{
+	background-color:#00FFFF ;
+	border-radius: 15px;
+	margin-top: 3px;
+	padding-top: 7px
+}
+div#cinco:hover{
+	background:#C0C0C0;
+}
+
+#croquis{
+	width:940px;
+	height:455px;
+	background: white;
+	margin-top: 60px;
+	
+}
+
+#croquis div{
+	width:306PX;
+	height:710PX;
+	background: #FAAC58;
+	float: left;
+	margin: 1PX;
+	
+}
+
+#croquis #C1{
+width: 150px;
+}
+
+#croquis #C2{
+width:620px;
+}
+
+#croquis #C2 div{
+	background:red;
+	width: 308px;
+	height: 229px;
+}
+
+#croquis #C2 #t1{
+	background: #E0FFFF;
+	 
+
+
+}
+
+#croquis #C2 #t1 img{
+	width:300px;
+	height: 200Px;
+	border: 1px solid black;
+	padding: 5px;
+	border-radius: 15px
+}
+
+#croquis #C2 #t1 p{
+
+background: 	#9370DB;
+text-align: center;
+border-radius:5px;
+} 
+#croquis #C2 #t1 p:hover{
+	background: #E0FFFF;
+	
+}
+
+
+#croquis #C3{
+width: 162px;
+}
+
+
+footer{
+	width: 940px;
+	height: 200px;
+	background:green;
+	margin-top: 248px;
+}
+

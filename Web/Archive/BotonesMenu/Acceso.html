@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!--Tabla para ingresar los datos del usuario a ingresar-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../css/Bootstrap/bootstrap.css">
+        <link rel="import" href="Acceso/Acceso.php">
+    </head>
+    <body>
+        <form  method="POST" action="Acceso.php">
+            <div class="form-group"><!--hago que el label y el input se junten como si fuera un solo elemnto visualmente estan juntos-->
+                <label for="nombre">Usuario:</label>
+                <input class="form-control" name="Usuario" id="Usuario"  type="text"  placeholder="Usuario"><!--placeholder me da una marca de agua dentro del campo de texto-->          
+            </div>
+            <div class="form-group"><!--hago que el label y el input se junten como si fuera un solo elemnto visualmente estan juntos-->
+                <label for="fecha">Contraseña:</label>
+                <input class="form-control" name="Contrasena" id="Contrasena"  type="text"  placeholder="Contraseña">            
+            </div>
+            <div class="form-group"><!--hago que el label y el input se junten como si fuera un solo elemnto visualmente estan juntos-->
+                <button class="btn btn-primary">Ingresar</button>
+            </div>        
+        </form>
+    </body>
+</html>

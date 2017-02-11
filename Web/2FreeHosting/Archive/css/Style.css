@@ -1,0 +1,27 @@
+header .container{
+  background:#009688;
+  color:#FFFFFF;
+}
+
+.container .main article{
+  background:#AFB42B;
+  color:#FFFFFF;
+}
+
+.container .main aside{
+  background:#689F38;
+  color:#FFFFFF;
+}
+
+.color1{
+    background: #CDDC39;
+}
+
+.color2{
+    background: #727272;
+}
+
+footer .container{
+    background: #009688;
+    color:#FFFFFF;    
+}

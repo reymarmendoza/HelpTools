@@ -1,0 +1,317 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*
+body{
+    background:; 
+}
+*/
+#cuerpogeneral{
+    width: 1102px;
+    height: 1150px;
+    margin: auto;
+}
+
+header{
+    width: 1102px;
+    height: 150px;
+    margin-bottom: 30px;
+}
+
+#cuerpogeneral header img{
+    width: 1102px;
+    height: 180px;
+}
+
+#cuerpogeneral #menu{
+    background:#2ecc71;
+    width: 1104px;
+    height: 100px;
+    margin-top:5px;
+}
+
+div.contenedor{
+    width:180px;
+    height: 45px;
+    float:right;
+    margin: 15px;
+    font-size: 26px;
+    text-align: center;
+    text-decoration: none;
+}
+
+div#uno{
+    background-color: #FA58F4;
+    border-radius: 15px;
+    margin-top: 26px;
+    margin-right:40px;
+    font-size: 18px;
+    padding-top: 7px
+}
+
+div#uno:hover{
+	background:#C0C0C0;
+
+}
+
+.contenedor .texto{
+	font-size: 26px
+}
+div#dos{
+	background-color:#F6CED8 ;
+	border-radius: 15px;
+	margin-top: 26px;
+	padding-top: 7px;
+	padding-top: 7px
+	
+}
+div#dos:hover{
+	background:#C0C0C0;
+}
+div#tres{
+	background-color: #FAAC58;
+	border-radius: 15px;
+	margin-top: 26px;
+	padding-top: 7px
+}
+div#tres:hover{
+	background:#C0C0C0;
+	margin-bottom: 10px;
+}
+div#cuatro{
+	background-color: #58ACFA; 
+	border-radius: 15px;
+	margin-top: 26px;
+	padding-top: 7px
+}
+div#cuatro:hover{
+	background:#C0C0C0;
+}
+div#cinco{
+	background-color:#00FFFF ;
+	border-radius: 15px;
+	margin-top: 26px;
+	padding-top: 7px
+}
+div#cinco:hover{
+	background:#C0C0C0;
+}
+
+#croquis{
+	width:1102px;
+	height:1000px;
+	background: ;
+	margin-top: 10px;
+	
+}
+
+#croquis div{
+	background:;
+	/*border: 1px solid #000;*/
+	width:385px;
+	height:615px;
+	background: ;
+	float: left;
+	margin: 3px;
+	
+}
+
+
+
+#croquis #C2{
+width:810px;
+}
+
+#croquis #C2 div{
+	background:;
+	width: 400x;
+	height: 270px;
+}
+
+/* ESTILOS PARA LOS TITULOS DE CADA CUADRADO*/
+#cuerpogeneral #btngaleria{
+	position: absolute;
+	font-size: 23px;
+	left: 650px;
+	top: 292px;
+	list-style: none;
+}
+
+#cuerpogeneral #btngaleria a{
+	text-decoration: none;
+
+}
+
+#cuerpogeneral #btnhistoria{
+	margin-left: 130px;
+	font-size: 23px;
+	list-style: none;
+}	
+
+#cuerpogeneral #btnhistoria a{
+	text-decoration: none;
+}
+#cuerpogeneral #btneventos{
+	position: absolute;
+	left: 650px;
+	top: 600px;
+	font-size: 23px;
+	list-style: none;
+}
+
+#cuerpogeneral #btneventos a{
+	text-decoration: none;
+}
+
+#cuerpogeneral #btninstal{
+	margin-left: 130px;
+	font-size: 23px;
+	list-style: none;
+}	
+
+#cuerpogeneral #btninstal a{
+	text-decoration: none;
+}
+
+/* FIN DE ESTILOS PARA TITULOS DE CADA CUADRADO*/
+
+#croquis #C2 .t1{
+	background:#e8e5e5;
+	margin-bottom: 10px
+}
+
+#croquis #C2 .t1 img{
+	width:385px;
+	height: 200px;
+	
+	
+	
+}
+
+#croquis #C2 .t1 p{
+
+background:;
+text-align: center;
+border-radius:5px;
+text-align: justify;
+padding: 6px
+} 
+#croquis #C2 #t1 p:hover{
+	background: #E0FFFF;
+	
+}
+
+
+#croquis #C3{
+	background:#fff;
+	/*border: 1px solid #000;*/
+	width: 270px;
+	height: 580px
+}
+
+#croquis #C3 h3{
+	text-align: center;
+	margin: 15px
+}
+
+#croquis #C3 div{
+	background: #e8e5e5;
+	/*border-radius: 10px;*/
+	width: 258px;
+	height: 240px;
+
+}
+
+#croquis #C3 img{
+	width: 257px
+}
+
+#croquis #C3 .logolat{
+	height: 100px;
+	margin-bottom: 15px
+}
+
+
+footer{
+	position: absolute;
+	bottom: -470px;
+	border-radius: 15px;
+	width: 1102px;
+	height: 200px;
+	background:#ccc;
+	
+
+}
+
+/*STILOS DE LA PAGINA HISTORIA*/
+
+/*ESTILOS ARTICLE D LA HISTRIA*/
+
+#cuerpogeneral #historia{
+	background: #e6e5e5;
+	
+	width:1070px;
+	height: 270px;
+	margin-top: 10px;
+	padding: 15px;
+	margin-left: 1px
+}
+
+#cuerpogeneral #rese{
+	margin-left: 220px
+}
+
+#cuerpogeneral #historia #vision{
+	background: #e6e5e5;
+	
+	width:1070px;
+	height: 270px;
+	margin-top: 50px;
+	padding: 15px;
+	text-align: justify;	
+}	
+
+
+
+
+#cuerpogeneral  #vision{
+	background: #e6e5e5;
+	width: 1070px;
+	height: 300px;
+	margin-top: 8px;
+	text-align: justify;
+	padding: 15px
+}
+
+#cuerpogeneral #vision #visi{
+	width: 300px;
+	margin-left: 350px
+	
+	
+}
+
+#cuerpogeneral #mision{
+		background: #e6e5e5;
+
+		width: 1070px;
+		height: 380px;
+		margin-top: 5px;
+		padding: 15px;
+		text-align: justify;
+
+}
+
+#cuerpogeneral #mision #logomision{
+	width: 300px;
+	height: 250px;
+	margin-left: 350px
+}
+
+
+#cuerpogeneral #vision #visio .titulovision{
+	text-align: center;
+	font-size: 40px;
+	color: #bfb90a
+
+}
